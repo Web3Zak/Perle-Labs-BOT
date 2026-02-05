@@ -1,0 +1,157 @@
+[
+  {
+    "id": "clause_01",
+    "text": "All fees owed under this Agreement shall be paid within thirty (30) days of invoice issuance. Late payments may incur interest at a rate of 1.5% per month.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_02",
+    "text": "All charges are exclusive of taxes, and the Client is responsible for any applicable sales, VAT, or similar taxes.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_03",
+    "text": "All trade secrets and confidential data disclosed are protected under this Agreement. The receiving party shall not share them with third parties. Only employees with a need to know may access the information.",
+    "answer": "Confidentiality"
+  },
+  {
+    "id": "clause_04",
+    "text": "Billing occurs monthly in advance. Payment is due upon receipt of invoice. Failure to pay may result in service suspension.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_05",
+    "text": "Company is not liable for indirect or consequential damages. Liability is limited to the amount paid in the prior twelve months. These limits apply regardless of claim type.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_06",
+    "text": "Customer shall pay all invoices within thirty days. Late payments will incur interest. Fees are non‑refundable except as stated. Taxes are the responsibility of the Customer.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_07",
+    "text": "Either party can end it for convenience with notice. Certain sections survive termination. All outstanding obligations remain enforceable.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_08",
+    "text": "Either party may terminate this Agreement immediately upon written notice if the other party materially breaches any provision and fails to cure such breach within ten (10) days.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_09",
+    "text": "Failure to pay any outstanding balance within fifteen (15) days of written notice shall constitute grounds for immediate suspension or termination of Services.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_10",
+    "text": "If this Agreement is terminated, any unpaid fees accrued prior to the termination date shall remain immediately due and payable.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_11",
+    "text": "In no event shall the Company be responsible for losses resulting from unauthorized access to the Client’s account caused by the Client’s failure to secure credentials.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_12",
+    "text": "Monthly fees shall be automatically charged to the payment method on file unless canceled prior to the renewal date.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_13",
+    "text": "Personal information is stored securely by the Company. It is used only for legitimate business purposes. Users have rights to access and correction.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_14",
+    "text": "Personal information provided by users will be stored securely and retained only for as long as necessary to fulfill contractual obligations.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_15",
+    "text": "Subscription fees are non-refundable once the billing cycle has commenced, except as required by applicable law.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_16",
+    "text": "Subscription fees are billed on a monthly basis and will be automatically charged to the payment method on file at the start of each billing cycle, unless the subscription is canceled prior to the renewal date.",
+    "answer": "Payment Terms"
+  },
+  {
+    "id": "clause_17",
+    "text": "The Client agrees to indemnify and hold harmless the Company from any claims, losses, or damages resulting from the Client’s misuse of the Services.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_18",
+    "text": "The Client acknowledges that the Services are provided ‘as is’ and disclaims any warranties to the maximum extent permitted by law.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_19",
+    "text": "The Company limits its total aggregate liability under this Agreement to the amounts paid by the Client during the twelve (12) months preceding the claim.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_20",
+    "text": "The Company may collect usage analytics to improve performance, provided such data is anonymized and does not identify individual users.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_21",
+    "text": "The Company shall not be liable for service interruptions caused by events beyond its reasonable control, including acts of God or governmental actions.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_22",
+    "text": "The Company shall not be responsible for any indirect, incidental, or consequential damages arising from the use of the Services, even if advised of the possibility of such damages.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_23",
+    "text": "The Recipient agrees to keep all proprietary information strictly confidential. Such information may only be used for purposes of this Agreement. The Recipient must take reasonable measures to protect it from disclosure. These obligations survive termination.",
+    "answer": "Confidentiality"
+  },
+  {
+    "id": "clause_24",
+    "text": "This Agreement shall automatically terminate upon the dissolution or insolvency of either party.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_25",
+    "text": "The service is provided as is without warranties. Company disclaims all implied warranties. Liability is capped under this Agreement. Some jurisdictions may not allow exclusions.",
+    "answer": "Liability"
+  },
+  {
+    "id": "clause_26",
+    "text": "Upon termination of this Agreement, all licenses granted herein shall immediately cease, and the Client must discontinue use of the Services.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_27",
+    "text": "User data collected through the Platform shall be processed in accordance with applicable data protection laws and shall not be disclosed to third parties without consent.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_28",
+    "text": "User information will not be sold, rented, or shared for marketing purposes without explicit opt-in consent.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_29",
+    "text": "We collect personal data to provide our services. Data is processed according to our privacy policy. Users may request deletion of their information. We comply with data protection laws.",
+    "answer": "Privacy"
+  },
+  {
+    "id": "clause_30",
+    "text": "This Agreement remains in effect until terminated. Either party can end it for convenience with notice. Certain sections survive termination. All outstanding obligations remain enforceable.",
+    "answer": "Termination"
+  },
+  {
+    "id": "clause_31",
+    "text": "This Agreement may be terminated by the Company for convenience upon thirty (30) days’ written notice to the Client.",
+    "answer": "Termination"
+  }
+]

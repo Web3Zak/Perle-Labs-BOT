@@ -1,0 +1,122 @@
+[
+  {
+    "id": "product_01",
+    "text": "I've been trying to start a home yoga routine. The yoga mat I ordered arrived with a very strong chemical odor that still hasn't faded after days of airing out. It's honestly unpleasant to use. Is there a fix?",
+    "answer": "yoga mat"
+  },
+  {
+    "id": "product_02",
+    "text": "I recently ordered an office chair to improve comfort while working from home. However, it squeaks loudly every time I shift my weight. It's incredibly distracting. I'd appreciate guidance on next steps.",
+    "answer": "office chair"
+  },
+  {
+    "id": "product_03",
+    "text": "I had been waiting weeks to upgrade my workspace. When the standing desk arrived, the tabletop already had a large crack in it. The box looked fine, so it must have shipped this way. Please help arrange a replacement.",
+    "answer": "standing desk"
+  },
+  {
+    "id": "product_04",
+    "text": "I only planned to replace the band on my smartwatch. The new smartwatch band won't stay clasped though, and the watch keeps slipping off. I'm worried I'll lose it completely. Can I exchange it?",
+    "answer": "smartwatch band"
+  },
+  {
+    "id": "product_05",
+    "text": "I use my bag daily for normal commuting. The backpack I received recently now has a broken zipper on the main pocket. Everything keeps slipping out. I'd like to fix or replace it.",
+    "answer": "backpack"
+  },
+  {
+    "id": "product_06",
+    "text": "I've been training for a race and needed reliable footwear. Unfortunately, the running shoes from my order are already falling apart after just a few uses. The sole is separating from the base. This shouldn't happen so quickly.",
+    "answer": "running shoes"
+  },
+  {
+    "id": "product_07",
+    "text": "Everything was working fine with my purchase at first. Then suddenly the vacuum cleaner stopped turning on at all. I checked outlets and cables already. Nothing works now.",
+    "answer": "vacuum cleaner"
+  },
+  {
+    "id": "product_08",
+    "text": "I bought a new kitchen appliance to speed things up. Unfortunately, the electric kettle leaks from the base every time I fill it with water. I'm worried this might be unsafe. Please get back to me soon.",
+    "answer": "electric kettle"
+  },
+  {
+    "id": "product_09",
+    "text": "I try to take good care of my cookware. Still, the frying pan I ordered already has scratches, even though I only use soft utensils. Food is starting to stick badly. This feels misleading.",
+    "answer": "frying pan"
+  },
+  {
+    "id": "product_10",
+    "text": "I was chopping vegetables last night when something alarming happened. One of the kitchen knives I recently purchased snapped in half. Luckily no one was hurt, but it was very surprising. Can we discuss replacements?",
+    "answer": "kitchen knives"
+  },
+  {
+    "id": "product_11",
+    "text": "Throughout the workday, my cursor keeps freezing. The problem seems to be the wireless mouse I purchased, since it disconnects randomly even with new batteries. This is affecting my productivity. Can you help?",
+    "answer": "wireless mouse"
+  },
+  {
+    "id": "product_12",
+    "text": "I expected my purchase to make getting ready in the morning easier. Instead, the hair dryer overheats and shuts off halfway through drying. This has happened several times now. It's really inconvenient.",
+    "answer": "hair dryer"
+  },
+  {
+    "id": "product_13",
+    "text": "Calls and music constantly cut out when I use my new device. The issue seems to be with the wireless earbuds I purchased, because one side disconnects repeatedly. I've already tried troubleshooting. It hasn't helped.",
+    "answer": "wireless earbuds"
+  },
+  {
+    "id": "product_14",
+    "text": "I bought a suitcase for an upcoming trip and used it for the first time yesterday. During the journey, one of the wheels completely broke off. Now it barely rolls at all. I'd like to request a replacement.",
+    "answer": "suitcase"
+  },
+  {
+    "id": "product_15",
+    "text": "I was really excited when my order arrived because I'd been waiting all week. But the wireless headphones I received only play sound on one side. It makes it impossible to listen to music or podcasts normally. Can you help me resolve this?",
+    "answer": "wireless headphones"
+  },
+  {
+    "id": "product_16",
+    "text": "My smartwatch keeps dying unexpectedly. The issue appears to be with the smartwatch charger I bought, which stopped working after only a few uses. Now I can't keep the watch powered. Please assist.",
+    "answer": "smartwatch charger"
+  },
+  {
+    "id": "product_17",
+    "text": "I needed better focus for work calls. That's why I bought noise-canceling headphones, but they barely reduce any background noise. I can still hear everything around me. This is disappointing.",
+    "answer": "noise-canceling headphones"
+  },
+  {
+    "id": "product_18",
+    "text": "I double-checked the product listing before ordering. Still, the tablet case that arrived is way too small for my device. I can't fit it inside at all. What are my options?",
+    "answer": "tablet case"
+  },
+  {
+    "id": "product_19",
+    "text": "I gifted someone a leather wallet from your store. Unfortunately, they told me the stitching is already coming apart after very light use. That's pretty embarrassing. What can be done?",
+    "answer": "leather wallet"
+  },
+  {
+    "id": "product_20",
+    "text": "I wore my purchase for the first time yesterday and immediately had problems. The winter jacket zipper completely jammed and wouldn't move. For something brand new, that feels unacceptable. Please advise.",
+    "answer": "winter jacket"
+  },
+   {
+    "id": "product_21",
+    "text": "I got everything set up in my kitchen and was excited to start meal prepping. However, the blender I bought makes a loud grinding noise that sounds unsafe. It didn't do this at first. Could someone take a look?",
+    "answer": "blender"
+  },
+  {
+    "id": "product_22",
+    "text": "My mornings have been a mess lately. I thought buying a new coffee maker would help with that, but instead it keeps shutting off mid-brew. I've followed the instructions exactly. This is definitely not what I expected.",
+    "answer": "coffee maker"
+  },
+  {
+    "id": "product_23",
+    "text": "I bought something specifically to help keep my phone charged while traveling. But the portable charger barely holds any power and drains almost immediately. This completely defeats the purpose. I'd like help resolving this.",
+    "answer": "portable charger"
+  },
+  {
+    "id": "product_24",
+    "text": "At work I've been trying to improve my desk setup. That's why I purchased a laptop stand, but it keeps collapsing under the weight of my laptop. I'm worried it might damage my device. I'd appreciate a sturdier option.",
+    "answer": "laptop stand"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ambiguous_01",
+    "text": "Once the app update was released, users began downloading it overnight. Early reviews mentioned faster load times. Developers monitored crash reports closely. Patches will be applied as needed. A public announcement is coming.",
+    "answer": "Patches will be applied as needed."
+  },
+  {
+    "id": "ambiguous_02",
+    "text": "After weeks of preparation, the research group finally launched the study with its first participants. Data collection began early in the morning and continued throughout the day. Supervisors monitored the process closely. Adjustments will be implemented where appropriate. A summary will be drafted by Friday.",
+    "answer": "Adjustments will be implemented where appropriate."
+  },
+  {
+    "id": "ambiguous_03",
+    "text": "Shortly after the policy update was announced, employees began submitting questions to HR. Clarifications were posted on the company intranet. Managers held brief team meetings to address concerns. Further revisions will be made if necessary. Another update is scheduled next month.",
+    "answer": "Further revisions will be made if necessary."
+  },
+  {
+    "id": "ambiguous_04",
+    "text": "The marketing department launched the new campaign on social media platforms early this morning. Initial engagement numbers are lower than projected, but steady. Designers are preparing alternate visuals. We will refine the approach as necessary. A second wave of posts is planned.",
+    "answer": "We will refine the approach as necessary."
+  },
+  {
+    "id": "ambiguous_05",
+    "text": "The board meeting stretched longer than anticipated due to questions about budget allocations. Financial officers presented updated forecasts. Department heads outlined their staffing needs. A decision will be made under the right conditions. The next meeting is set for next week.",
+    "answer": "A decision will be made under the right conditions."
+  },
+  {
+    "id": "ambiguous_06",
+    "text": "Once the prototype was assembled, technicians began running performance diagnostics. Several components exceeded expected benchmarks. The testing report was circulated internally. Improvements may be introduced where useful. A second prototype is already in development.",
+    "answer": "Improvements may be introduced where useful."
+  },
+  {
+    "id": "ambiguous_07",
+    "text": "During the quarterly review, leadership discussed performance metrics and future hiring goals. Sales numbers were higher than expected, while support tickets decreased. A new compensation structure was introduced for managers. Some changes will be made if it makes sense. The team left with clear action items.",
+    "answer": "Some changes will be made if it makes sense."
+  },
+  {
+    "id": "ambiguous_08",
+    "text": "Last night’s storm caused brief power outages across several neighborhoods. Utility crews restored service before sunrise. City officials released a statement thanking residents for their patience. Long-term improvements will be considered later. Emergency lines are still open.",
+    "answer": "Long-term improvements will be considered later."
+  },
+  {
+    "id": "ambiguous_09",
+    "text": "Yesterday, the engineering team wrapped up its internal testing and sent the results to management. Several bugs were documented, but none were considered critical. The release plan was updated during the afternoon meeting. We will move forward once everything looks right. Marketing is preparing public messaging.",
+    "answer": "We will move forward once everything looks right."
+  },
+  {
+    "id": "ambiguous_10",
+    "text": "As the exhibition opened, visitors gathered around the featured installation. Curators explained the historical background of the artwork. Photographs were taken throughout the day. Additional displays will be added when possible. The gallery closes at six.",
+    "answer": "Additional displays will be added when possible."
+  },
+  {
+    "id": "ambiguous_11",
+    "text": "Following the training session, employees completed a short assessment on the new software tools. Scores were higher than in previous trials. Managers reviewed the results before lunch. Additional guidance will be offered as appropriate. Feedback will be collected anonymously.",
+    "answer": "Additional guidance will be offered as appropriate."
+  },
+  {
+    "id": "ambiguous_12",
+    "text": "Before boarding began, airline staff verified passenger documents at the gate. Luggage was loaded onto the aircraft ahead of schedule. Pilots reviewed weather forecasts. Departure will occur when conditions allow. Travelers waited nearby.",
+    "answer": "Departure will occur when conditions allow."
+  },
+  {
+    "id": "ambiguous_13",
+    "text": "During the charity drive, volunteers sorted donated items by category and size. Trucks delivered supplies to shelters throughout the afternoon. Local news stations covered the event. Expansion plans will be discussed later. Organizers thanked participants.",
+    "answer": "Expansion plans will be discussed later."
+  },
+  {
+    "id": "ambiguous_14",
+    "text": "By noon, the warehouse had processed all incoming shipments and updated the inventory system. Several boxes were flagged for inspection due to damaged packaging. Staff handled the issue without delays. Further steps will be taken if needed. Delivery schedules remain unchanged.",
+    "answer": "Further steps will be taken if needed."
+  },
+  {
+    "id": "ambiguous_15",
+    "text": "When the new menu debuted, regular customers were eager to try unfamiliar dishes. Servers described ingredients and preparation methods. The kitchen tracked which items sold fastest. Portions will be adjusted where appropriate. A seasonal menu is planned.",
+    "answer": "Portions will be adjusted where appropriate."
+  },
+  {
+    "id": "ambiguous_16",
+    "text": "As the school year ended, teachers finalized grades and prepared report cards. Parents received emails with instructions for pickup. Office staff organized records for the summer. Future improvements will be considered if practical. Maintenance work is scheduled.",
+    "answer": "Future improvements will be considered if practical."
+  },
+  {
+    "id": "ambiguous_17",
+    "text": "As part of the renovation project, contractors removed old fixtures from the lobby area. New lighting was installed earlier today. Safety inspectors approved the updated layout. Final touches will be added when feasible. The entrance remains open to visitors.",
+    "answer": "Final touches will be added when feasible."
+  },
+  {
+    "id": "ambiguous_18",
+    "text": "Before the semester began, faculty members updated the course syllabi and lesson plans. Online materials were uploaded to the learning portal. Students received their login credentials this week. Additional adjustments will happen if required. Orientation sessions are still on schedule.",
+    "answer": "Additional adjustments will happen if required."
+  },
+  {
+    "id": "ambiguous_19",
+    "text": "After the performance concluded, the audience applauded for several minutes. Actors returned to the stage for multiple curtain calls. Ushers guided people toward the exits. Schedule changes will be announced later. Posters were removed overnight.",
+    "answer": "Schedule changes will be announced later."
+  }
+]

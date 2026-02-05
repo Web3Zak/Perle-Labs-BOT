@@ -1,0 +1,152 @@
+[
+  {
+    "id": "specialty_01",
+    "text": "A changing mole is the main concern today. Over two months, the lesion has become darker, slightly larger, and more irregular at the border. Exam shows asymmetry with variegated pigmentation and mild pruritus but no bleeding. No enlarged lymph nodes are palpated. An excisional biopsy was arranged and sun-safety counseling was provided.",
+    "answer": "Dermatology"
+  },
+  {
+    "id": "specialty_02",
+    "text": "Central vision has been fading over the past year. Reading street signs is difficult and straight lines appear wavy on an Amsler grid. Peripheral vision remains relatively intact. Fundoscopic findings suggest macular degeneration. Follow-up planning and treatment discussion were initiated depending on wet versus dry features.",
+    "answer": "Ophthalmology"
+  },
+  {
+    "id": "specialty_03",
+    "text": "Chief complaint: cough and fever. A 6-year-old has had four days of nighttime cough with a low-grade fever and decreased appetite. Mom reports he is still drinking fluids and urinating normally, but he gets winded on stairs. Lung exam reveals faint crackles at the right base without wheezing. A working diagnosis of mild community-acquired pneumonia was made and oral antibiotics were started with close follow-up instructions.",
+    "answer": "Pediatrics"
+  },
+  {
+    "id": "specialty_04",
+    "text": "Early pregnancy with pelvic pain and spotting. She also reports dizziness and referred shoulder pain that began this morning. Vitals show mild tachycardia and lower quadrant tenderness. Ultrasound shows no intrauterine pregnancy and a right adnexal mass consistent with ectopic pregnancy. Urgent obstetric management was coordinated and options were discussed given stability and findings.",
+    "answer": "Obstetrics & Gynecology"
+  },
+  {
+    "id": "specialty_05",
+    "text": "Episodes of shakiness and sweating have been occurring mid-morning. Symptoms resolve quickly after juice or a snack, and one episode was documented with a glucose of 48 mg/dL. No diabetes medications are being used and alcohol intake is minimal. The pattern raises concern for recurrent hypoglycemia of unclear cause. Further endocrine evaluation was planned and the patient was advised to avoid driving during symptomatic periods.",
+    "answer": "Endocrinology"
+  },
+  {
+    "id": "specialty_06",
+    "text": "Hands have been stiff every morning for months. Swelling affects several MCP and PIP joints bilaterally, and stiffness lasts longer than an hour. Fatigue is prominent and occasional low-grade fevers are noted. Exam shows synovitis without deformity. Inflammatory markers and autoimmune serologies were ordered to evaluate for inflammatory arthritis.",
+    "answer": "Rheumatology"
+  },
+  {
+    "id": "specialty_07",
+    "text": "Heartburn has become a daily problem. Burning discomfort occurs after meals and sour regurgitation wakes the patient at night. Antacids help briefly, but symptoms return within hours. No weight loss, hematemesis, or progressive dysphagia was reported. A proton pump inhibitor was started and an upper endoscopy was scheduled due to persistent symptoms.",
+    "answer": "Gastroenterology"
+  },
+  {
+    "id": "specialty_08",
+    "text": "Family reports progressive memory issues over the last year. He repeats questions, misplaces items, and recently became lost on a familiar route. Personality changes include irritability and occasional nighttime confusion. Neurologic exam is non-focal, and gait appears steady. Cognitive testing and brain imaging were ordered to evaluate for neurodegenerative disease.",
+    "answer": "Neurology"
+  },
+  {
+    "id": "specialty_09",
+    "text": "Fever and fussiness for two days in a toddler. The child has been tugging at the right ear and waking frequently overnight. Otoscopic exam reveals a bulging, erythematous tympanic membrane with decreased mobility. No mastoid tenderness is present and hydration looks adequate. Acute otitis media was treated and follow-up precautions were reviewed.",
+    "answer": "Pediatrics"
+  },
+  {
+    "id": "specialty_10",
+    "text": "Infertility evaluation visit. Cycles have been irregular for years, and acne plus increased facial hair have worsened recently. Laboratory studies show elevated androgens with an increased LH:FSH ratio. Ultrasound demonstrates enlarged ovaries with multiple peripheral follicles. A working diagnosis of PCOS was discussed along with fertility and metabolic risk management.",
+    "answer": "Obstetrics & Gynecology"
+  },
+  {
+    "id": "specialty_11",
+    "text": "Mood symptoms have been building for nearly two months. Energy is low, sleep is fragmented, and interest in social activities has faded. Appetite is reduced and several pounds have been lost without trying. She denies an active plan for self-harm but endorses passive thoughts of not wanting to wake up. A safety assessment was completed and a treatment plan including therapy and medication options was discussed.",
+    "answer": "Psychiatry"
+  },
+  {
+    "id": "specialty_12",
+    "text": "NICU note: feeding intolerance in a premature infant. Non-bilious emesis has persisted despite changes in formula concentration and feeding technique. Weight gain has plateaued and intermittent apnea has been observed during feeds. Abdomen is soft with mild distention, and stool frequency has decreased. A diagnostic workup was initiated and feeding strategy was adjusted while monitoring continued.",
+    "answer": "Neonatology"
+  },
+  {
+    "id": "specialty_13",
+    "text": "On arrival, a 58-year-old man is pale, sweaty, and clutching his chest. The pain began suddenly, feels like pressure, and radiates to the left arm and jaw. ECG demonstrates inferior ST-segment elevation with reciprocal changes. Initial troponin is elevated and blood pressure is borderline. He was treated as an acute STEMI and taken for urgent coronary angiography.",
+    "answer": "Cardiology"
+  },
+  {
+    "id": "specialty_14",
+    "text": "Over the past three months, itchy plaques have appeared on the elbows and scalp. The lesions are well-demarcated with thick scale, and several fingernails show pitting. No fever, new soaps, or recent medication changes were reported. Moisturizers have provided minimal relief. Topical anti-inflammatory therapy was prescribed and follow-up was arranged if symptoms spread or joint pain develops.",
+    "answer": "Dermatology"
+  },
+  {
+    "id": "specialty_15",
+    "text": "Palpitations have been occurring a few times per day for two weeks. A 47-year-old describes a fluttering sensation with brief lightheadedness, but no syncope or chest pain. ECG shows atrial fibrillation with a rapid ventricular response. Thyroid labs were ordered and stroke risk was assessed. Rate control medication was started and anticoagulation was discussed based on risk factors.",
+    "answer": "Cardiology"
+  },
+  {
+    "id": "specialty_16",
+    "text": "Polyuria and polydipsia brought the patient to clinic. Fatigue has increased and blurry vision occurs by late afternoon. Labs show an elevated fasting glucose and HbA1c in the diabetic range. BMI is elevated and blood pressure is mildly high. Lifestyle changes and medication initiation were discussed, along with plans for complication screening.",
+    "answer": "Endocrinology"
+  },
+  {
+    "id": "specialty_17",
+    "text": "Recurrent shoulder instability in a collegiate swimmer. The shoulder slips out during overhead strokes and remains sore for days afterward. Exam shows apprehension with abduction and external rotation, along with generalized laxity. Physical therapy has reduced pain but dislocations continue. Imaging and surgical stabilization options were reviewed to reduce recurrence and restore performance.",
+    "answer": "Orthopedics"
+  },
+  {
+    "id": "specialty_18",
+    "text": "Ringing in the ears has become constant. Hearing is noticeably worse in noisy rooms and family members report increased TV volume. Symptoms have progressed gradually over several years without vertigo. Audiometry shows bilateral sensorineural hearing loss. Options for hearing protection and amplification were discussed, and further ENT evaluation was planned.",
+    "answer": "ENT"
+  },
+  {
+    "id": "specialty_19",
+    "text": "Routine prenatal visit at 30 weeks. Fetal movement is good and there are no contractions, bleeding, or leakage of fluid. Fundal height matches gestational age and fetal heart tones are reassuring. Blood pressure is normal and urinalysis is negative for protein. Antenatal counseling was provided regarding warning signs, vaccines, and upcoming third-trimester testing.",
+    "answer": "Obstetrics & Gynecology"
+  },
+  {
+    "id": "specialty_20",
+    "text": "Skateboard fall with wrist injury. Immediate pain and swelling developed after landing on an outstretched hand. Rotation of the forearm is limited due to discomfort. Tenderness is localized over the distal radius and a mild deformity is visible. X-ray confirms a distal radius fracture with intact neurovascular status and immobilization was applied with follow-up arranged.",
+    "answer": "Orthopedics"
+  },
+  {
+    "id": "specialty_21",
+    "text": "Severe epigastric pain started after a large meal. The discomfort radiates to the back and is accompanied by persistent vomiting. Abdominal exam shows epigastric tenderness without peritoneal signs. Lipase is markedly elevated and liver enzymes are mildly increased. Acute pancreatitis was diagnosed and treatment with fluids and supportive care was initiated while evaluating possible causes.",
+    "answer": "Gastroenterology"
+  },
+  {
+    "id": "specialty_22",
+    "text": "Sore throat started abruptly two days ago. Fever is present and swallowing is painful, especially with solids. Tonsils are enlarged with exudates and anterior cervical nodes are tender. Cough is absent and a close contact was recently ill. A rapid strep test was obtained and supportive care was recommended while awaiting results.",
+    "answer": "ENT"
+  },
+  {
+    "id": "specialty_23",
+    "text": "Shortness of breath has slowly worsened over several years. A 64-year-old with a heavy smoking history reports daily cough with sputum and reduced exercise tolerance. Pulmonary function tests show an obstructive pattern with a low FEV1/FVC ratio. Oxygen saturation drops mildly with exertion. Inhaler therapy was optimized and smoking cessation support was offered with pulmonary follow-up planned.",
+    "answer": "Pulmonology"
+  },
+  {
+    "id": "specialty_24",
+    "text": "Sleep has been oddly reduced during certain stretches. For several days at a time, the patient feels energized, talks rapidly, and starts multiple projects while spending impulsively. Those periods are followed by weeks of depressed mood, poor concentration, and withdrawal from friends. Functioning at work has declined and relationships are strained. An evaluation for bipolar spectrum disorder was completed and a management plan was outlined.",
+    "answer": "Psychiatry"
+  },
+  {
+    "id": "specialty_25",
+    "text": "Swelling in the ankles prompted today's visit. He has long-standing hypertension and now reports foamy urine and decreased appetite. Creatinine has risen compared to prior labs, and electrolytes are abnormal. Renal ultrasound suggests chronic medical renal disease. Medication adjustments were made and chronic kidney disease management planning was initiated.",
+    "answer": "Nephrology"
+  },
+  {
+    "id": "specialty_26",
+    "text": "Three seizure episodes have occurred in the past month. Parents describe brief staring followed by confusion and fatigue afterward. Between episodes, neurologic exam is normal and school performance is unchanged. EEG shows epileptiform discharges consistent with a seizure disorder. Antiepileptic therapy was started and seizure safety education was provided for home and school.",
+    "answer": "Neurology"
+  },
+  {
+    "id": "specialty_27",
+    "text": "Work injury report: acute back pain after lifting. The pain is sharp and shoots down the left leg to the calf, with intermittent numbness on the lateral foot. Standing upright is difficult and gait is guarded. Imaging demonstrated an L4 compression fracture after a prior fall was clarified. A referral for spine evaluation was placed and activity modification was recommended along with warning signs to watch for.",
+    "answer": "Orthopedics"
+  },
+  {
+    "id": "specialty_28",
+    "text": "Yesterday's run ended with a twisting injury to the right knee. A distinct pop was felt, followed by rapid swelling and difficulty bearing weight. Since then, the knee buckles when going downstairs. Exam shows laxity on Lachman testing and limited range of motion due to effusion. MRI confirmed an ACL rupture and management options were reviewed.",
+    "answer": "Orthopedics"
+  },
+  {
+    "id": "specialty_29",
+    "text": "Weight loss and chronic cough prompted imaging. CT reveals a spiculated lung mass with enlarged mediastinal nodes. Biopsy confirms non-small cell lung cancer, and staging studies are pending. The patient arrived with family to discuss prognosis and next steps. Treatment pathways including chemo-radiation and targeted options were reviewed contingent on staging and molecular results.",
+    "answer": "Oncology"
+  },
+  {
+    "id": "specialty_30",
+    "text": "A preschooler's skin has been flaring in the winter. Dry, itchy patches appear behind the knees and inside the elbows, and scratching has caused excoriations. There are no honey-colored crusts or signs of abscess. Family history includes asthma and seasonal allergies. Emollient use was emphasized and a short course of topical steroid was recommended for flares.",
+    "answer": "Pediatrics"
+  }
+]
